@@ -43,7 +43,7 @@ sdradar/
 1. Clone this repository:
 
 bash
-git clone https://github.com/yourusername/sdradar-simulation.git
+git clone https://github.com/shovo896/sdradar-simulation.git
 cd sdradar-simulation
 
 pip install numpy matplotlib

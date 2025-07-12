@@ -1,6 +1,6 @@
 #  Software-Defined Radar (SDRadar) Simulation in Python
 
-This project simulates a basic radar system entirely in software using Python. It uses signal processing techniques such as pulse generation, matched filtering, and Doppler shift analysis to estimate the **distance** and **velocity** of a virtual target.
+This project simulates a basic radar system entirely in software using Python. It uses signal processing techniques such as pulse generation, matched filtering, and Doppler shift analysis to estimate the  distance and **velocity of a virtual target.
 
 
 
@@ -12,7 +12,7 @@ This project simulates a basic radar system entirely in software using Python. I
 - Real-time visualization of transmitted/received signals
 -  Accurate distance and velocity estimation
 
----
+
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ This project simulates a basic radar system entirely in software using Python. I
 - Matplotlib
 - Signal processing techniques: FFT, correlation, time delay, Doppler effect
 
----
+
 
 ##  Project Structure
 sdradar/
@@ -35,7 +35,6 @@ sdradar/
 └── README.md                                                           # This file
 
 
----
 
 ##  Getting Started
 
@@ -43,7 +42,7 @@ sdradar/
 
 1. Clone this repository:
 
-```bash
+bash
 git clone https://github.com/yourusername/sdradar-simulation.git
 cd sdradar-simulation
 

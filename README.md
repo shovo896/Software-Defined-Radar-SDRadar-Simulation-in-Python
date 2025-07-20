@@ -23,21 +23,6 @@ This project simulates a basic radar system entirely in software using Python. I
 
 
 
-##  Project Structure
-sdradar/
-│
-├── main.py        # Main script to run the radar simulation
-├── signal_generator.py           # Creates the transmitted radar chirp signal
-├── target_simulator.py             # Simulates the echo based on target parameters
-├── signal_processing.py                   # Extracts distance and velocity from echoes
-├── visualization.py                  # Plots signals and output results
-├── config.py (optional)                             # Parameter file for configuration
-└── README.md                                                           # This file
-
-
-
-##  Getting Started
-
 ###  Installation
 
 1. Clone this repository:
